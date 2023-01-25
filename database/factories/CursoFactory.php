@@ -19,6 +19,9 @@ class CursoFactory extends Factory
     {
         return [
          /*   'nombre'=> "Nombre",
+
+            "pavada" => mas pavdagit status
+            
             'descripcion'=>"Desc",
             'categoria'=> "Cat",*/
 
